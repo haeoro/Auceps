@@ -138,9 +138,9 @@ int main()
     independently.
 
         To-Do list
+    ~ create basic caesar cipher to cipher the output file. 
     ~ check documentation for ALL code files to ensure everything is written clearly, and concisely.
     ~ write code to schedule this program to be run on startup.
-    ~ implement code algorithm to check if user is idle, if so then exit the loop and wait til mouse moves.
     ~ remove unnecessary apis from includes section.
 
         Ideas

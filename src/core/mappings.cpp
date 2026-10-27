@@ -51,7 +51,7 @@ void Maps::initializeMaps()
         {45, INSERT}, {46, DEL},
         {8, BACKSPACE}, {37, LEFT},
         {38, UP}, {39, RIGHT},
-        {40, DOWN}
+        {40, DOWN},
     };
 
 
