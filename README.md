@@ -1,9 +1,9 @@
 # Gladius 
-<img width="402" height="501" alt="image" src="https://github.com/user-attachments/assets/c414d792-8bd9-49b0-9421-28295f8b9610" />
+<img width="633" height="272" alt="image" src="https://github.com/user-attachments/assets/7bb43380-ce0a-4300-86c4-9ffc2c538b64" />
+
 
 
 # Description 
-
 A powerful keylogger designed and programmed by myself (haeoro) with the following features, 
 
 1. One of the coolest and most powerful features is
@@ -17,6 +17,9 @@ A powerful keylogger designed and programmed by myself (haeoro) with the followi
 6. Requires a relatively low amount of CPU usage
 
 7. Logs all keystrokes with 100% accuracy.
+
+# Flowchart
+<img width="402" height="501" alt="image" src="https://github.com/user-attachments/assets/c414d792-8bd9-49b0-9421-28295f8b9610" />
 
 # Why? 
 
