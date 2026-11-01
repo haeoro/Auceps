@@ -4,19 +4,18 @@
 
 
 # Description 
-A powerful keylogger designed and programmed by myself (haeoro) with the following features, 
+A powerful keylogger designed and programmed by myself with the following features, 
 
 1. One of the coolest and most powerful features is
-   keylogger's ability to run in the background.
+   Gladius's ability to run in the background which
+   allows for covert data collection.
 
-3. Logs keystrokes to a text file
-
-4. Can write to a text file, and send data over a tcp
+2. Can write to a text file, and send data over a tcp
    socket concurrently. 
 
-6. Requires a relatively low amount of CPU usage
+3. Requires a relatively low amount of CPU usage
 
-7. Logs all keystrokes with 100% accuracy.
+4. Logs all keystrokes with 100% accuracy.
 
 # Flowchart
 <img width="402" height="501" alt="image" src="https://github.com/user-attachments/assets/c414d792-8bd9-49b0-9421-28295f8b9610" />
