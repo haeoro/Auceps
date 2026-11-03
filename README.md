@@ -10,7 +10,7 @@
 A powerful keylogger designed and programmed by myself with the following features, 
 
 1. One of the coolest and most powerful features is
-   Gladius's ability to run in the background which
+   Auceps's ability to run in the background which
    allows for covert data collection.
 
 2. Can write to a text file, and send data over a tcp
