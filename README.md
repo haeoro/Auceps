@@ -1,5 +1,6 @@
 # Auceps
-<img width="633" height="272" alt="image" src="https://github.com/user-attachments/assets/7bb43380-ce0a-4300-86c4-9ffc2c538b64" />
+<img width="657" height="421" alt="image" src="https://github.com/user-attachments/assets/faa44179-cbd2-4133-9c11-136781571129" />
+
 
 
 
