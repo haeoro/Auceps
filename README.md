@@ -1,9 +1,4 @@
 # Auceps
-
-
-
-
-# Description 
 A powerful keylogger designed and programmed by myself with the following features, 
 
 1. One of the coolest and most powerful features is
