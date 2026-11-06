@@ -1,6 +1,6 @@
 /*--------------------------------------------------------------------
 
-*    ``~ Main entrypoint file for the Gladius keylogger program (Written by haeoro) ~``
+*    ``~ Main file for the keylogger program (Written by haeoro) ~``
 *
 *    isProcRunning() Retrieves all of the active PIDs running on the system, then passes it to retrieveProcessName() to
 *    ensure the keylogger program is not running already. The reasoning for this is to prevent multiple instances of
@@ -132,17 +132,8 @@ int main()
 }
 
 /*
-        Notes
-
-    so far, these are the only issues I've found during testing. That and additional dll files are needed to run
-    independently.
-
         To-Do list
-    ~ create basic caesar cipher to cipher the output file. 
     ~ check documentation for ALL code files to ensure everything is written clearly, and concisely.
     ~ write code to schedule this program to be run on startup.
     ~ remove unnecessary apis from includes section.
-
-        Ideas
-    ~ implement code to check if user is idle, if so then exit the loop and wait til mouse moves.
 */

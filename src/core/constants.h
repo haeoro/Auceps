@@ -52,6 +52,7 @@ const std::string LEFT = "{kp='LEFTARROW'}";
 const std::string UP = "{kp='UPARROW'}";
 const std::string RIGHT = "{kp='RIGHTARROW'}";
 const std::string DOWN = "{kp='DOWNARROW'}";
+const std::string CLICK = "{kp='CLICK'}";
 
 const std::string F1 = "{kp='F1'}";
 const std::string F2 = "{kp='F2'}";
